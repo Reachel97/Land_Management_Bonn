@@ -5,6 +5,7 @@ Module: *Land Management* — Chair of Urban Planning and Land Management (Prof.
 Author: **Reachel Sabir**
 
 ---
+<img width="1618" height="1158" alt="image" src="https://github.com/user-attachments/assets/f700741e-06e9-465c-ba29-b519bea4bd84" />
 
 ## Project at a glance
 
