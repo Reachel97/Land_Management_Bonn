@@ -1,4 +1,4 @@
-# Land Management Project — Site Development & Land Readjustment, Endenich (Bonn)
+# Land Management Project - Site Development & Land Readjustment, Endenich (Bonn)
 
 MSc Geodetic Engineering · University of Bonn · Summer Term 2023
 Module: *Land Management* — Chair of Urban Planning and Land Management (Prof. Dr.-Ing. Theo Kötter)
