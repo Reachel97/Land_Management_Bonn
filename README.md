@@ -1,7 +1,7 @@
 # Land Management Project - Site Development & Land Readjustment, Endenich (Bonn)
 
 MSc Geodetic Engineering · University of Bonn · Summer Term 2023
-Module: *Land Management* — Chair of Urban Planning and Land Management (Prof. Dr.-Ing. Theo Kötter)
+Module: *Land Management* - Chair of Urban Planning and Land Management (Prof. Dr.-Ing. Theo Kötter)
 Author: **Reachel Sabir**
 
 ---
@@ -9,7 +9,7 @@ Author: **Reachel Sabir**
 
 ## Project at a glance
 
-A full five-stage urban site development for a ~5-hectare greenfield site in **Endenich, Bonn**, applying the German planning system end-to-end — from initial site appraisal all the way to a value-based **land readjustment** (*Umlegung*) under German Building Code (BauGB).
+A full five-stage urban site development for a ~5-hectare greenfield site in **Endenich, Bonn**, applying the German planning system end-to-end - from initial site appraisal all the way to a value-based **land readjustment** (*Umlegung*) under German Building Code (BauGB).
 
 The brief: turn an underused field bounded by *Am Bleichgraben*, *Maria-von-Linden-Weg*, *Steinweg* and the planned *Am Probsthof / Erich-Hoffmann-Straße* connection into a **mixed-use, medium-density** urban area — shops/offices on the ground floor, offices on the first floor, flats above; multi-modal traffic; public amenities; a mix of dwelling types for different incomes; integration with the existing surrounding fabric.
 
@@ -26,15 +26,15 @@ The site:
 
 ---
 
-## Methodology — the *Layer Method*
+## Methodology - the *Layer Method*
 
 The project follows the layer method taught in the module: each stage builds on the previous one, so the final readjustment plan is the legal/cadastral consequence of every planning decision made above it.
 
 | Stage | Output | Purpose |
 |---|---|---|
-| **A.1** Site appraisal | Map | Systematic inventory of the site — boundaries, surroundings, access, existing uses, constraints, opportunities |
-| **A.2** Structure plan | Plan | First spatial concept — main uses, zones, circulation, density distribution |
-| **A.3** Design plan | Plan | Detailed urban design — block structure, building footprints, public space, green network |
+| **A.1** Site appraisal | Map | Systematic inventory of the site - boundaries, surroundings, access, existing uses, constraints, opportunities |
+| **A.2** Structure plan | Plan | First spatial concept - main uses, zones, circulation, density distribution |
+| **A.3** Design plan | Plan | Detailed urban design - block structure, building footprints, public space, green network |
 | **A.4** Binding land-use plan (*Bebauungsplan*) | Plan | Legally binding plan under German planning law: building zones, plot ratios, building lines, public facilities |
 | **A.5** Land readjustment plan (*Umlegungsplan*) | Plan, spreadsheet | Cadastral reshuffle: old irregular parcels → new building plots, with each owner's legal claim, actual allocation, and financial compensation computed |
 
@@ -44,24 +44,24 @@ The project follows the layer method taught in the module: each stage builds on 
 
 > Add your PNGs to the [`maps/`](./maps) folder using the filenames below.
 
-### A.1 — Site appraisal
+### A.1 - Site appraisal
 ![Site appraisal](./maps/A1_site_appraisal.png)
 
-### A.2 — Structure plan
+### A.2 - Structure plan
 ![Structure plan](./maps/A2_structure_plan.png)
 
-### A.3 — Design plan
+### A.3 - Design plan
 ![Design plan](./maps/A3_design_plan.png)
 
-### A.4 — Binding land-use plan (B-Plan)
+### A.4 - Binding land-use plan (B-Plan)
 ![Binding land use plan](./maps/A4_binding_land_use_plan.png)
 
-### A.5 — Land readjustment plan
+### A.5 - Land readjustment plan
 ![Land readjustment plan](./maps/A5_land_readjustment_plan.png)
 
 ---
 
-## A.5 — Land readjustment results
+## A.5 - Land readjustment results
 
 The land readjustment was carried out using the **value-based method** (*Bauwert-Verfahren*) of the German Building Code. The pre-planning land value is 275 €/m², the post-planning value 440 €/m². Public places (roads, green space, kindergarten lot) grow from 5,665 m² before planning to 17,281 m² after planning.
 
@@ -122,11 +122,11 @@ Land_Management_Bonn_Endenich/
 
 ## Tools & methods used
 
-- **QGIS** — site analysis, base maps, land-use mapping
-- **CAD** — binding land-use plan and land readjustment plan (per module requirement)
-- **Microsoft Excel** — value-based land readjustment calculations
-- **PowerPoint** — final presentation
-- **German Building Code (BauGB)**, in particular §§ 45–84 *Umlegung* — legal framework for land readjustment
+- **QGIS** - site analysis, base maps, land-use mapping
+- **CAD** - binding land-use plan and land readjustment plan (per module requirement)
+- **Microsoft Excel** - value-based land readjustment calculations
+- **PowerPoint** - final presentation
+- **German Building Code (BauGB)**, in particular §§ 45–84 *Umlegung* - legal framework for land readjustment
 
 ---
 
